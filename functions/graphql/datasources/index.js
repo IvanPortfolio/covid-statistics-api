@@ -1,0 +1,1 @@
+exports.CovidDataSource = require("./covid");

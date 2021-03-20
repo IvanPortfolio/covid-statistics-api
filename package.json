@@ -1,0 +1,13 @@
+{
+  "name": "covid-statistics-api",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "firebase deploy",
+    "fix-formatting": "prettier --write \"**/*.js\""
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.2.1",
+    "yarn": "^1.22.10"
+  }
+}
